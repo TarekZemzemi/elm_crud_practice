@@ -1,0 +1,20 @@
+
+  
+   
+   
+
+--anonymous function 
+--\x -> x + 1 or with two variables \x y -> x + y
+
+--named function 
+-- addOne : Int -> Int
+-- addOne x =
+   --x + 1
+
+--this is a function that takes two float argument and return a float
+---divide : Float -> Float -> Float
+--divide x y =
+    --x / y
+
+--**subscriptions
+---In Elm, using subscriptions is how your application can listen for external input.

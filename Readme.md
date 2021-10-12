@@ -1,8 +1,7 @@
 
 Mini projet pour la deuxiéme entrevue avec CIS .
 
-Pour lancer l'application il suffit de suivres ces étapes : 
-
+Pour lancer l'application il suffit de suivres ces étapes :
 1- npm install 
 2- npm install json-server -g
 3- json-server --watch server/db.json -p 5019
